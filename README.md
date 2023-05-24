@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fathur Rachman</h1><br>
+<h1 align="center">Hi 👋, I'm Muhammad Fathur Rachman</h1>
 <h3 align="center">I am a Front-End Web Developer who is still learning to become a Full-Stack Web Developer. Someone who likes anime and manga.</h3>
 
 - 🔭 I’m currently working on [Personal Project]
@@ -16,10 +16,10 @@
     <img align="center" src="https://cdn.simpleicons.org/gmail/" alt="codepen: mfathurr" height="30" width="40" title="Gmail"/>
   </a>
   <a href="https://codepen.io/mfathurr" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/codepen/" alt="codepen: mfathurr" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/codepen/" alt="codepen: mfathurr" height="30" width="40" title="CodePen"/>
   </a>
   <a href="https://linkedin.com/in/muhammad-fathur-rachman" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin: muhammad-fathur-rachman" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin: muhammad-fathur-rachman" height="30" width="40" title="LinkedIn"/>
   </a>
 </p>
 
