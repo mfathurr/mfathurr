@@ -13,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:muhammad.fathur.rachman01@gmail.com" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/" alt="codepen: mfathurr" height="30" width="40" title="Gmail"/>
+    <img align="center" src="https://cdn.simpleicons.org/gmail/" alt="Gmail" height="30" width="40" title="Gmail"/>
   </a>
   <a href="https://codepen.io/mfathurr" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/codepen/" alt="codepen: mfathurr" height="30" width="40" title="CodePen"/>
+    <img align="center" src="https://cdn.simpleicons.org/codepen/fff" alt="codepen: mfathurr" height="30" width="40" title="CodePen"/>
   </a>
   <a href="https://linkedin.com/in/muhammad-fathur-rachman" target="blank">
     <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin: muhammad-fathur-rachman" height="30" width="40" title="LinkedIn"/>
