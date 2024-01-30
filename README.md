@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fathur Rachman</h1>
-<h3 align="center">I am a Front-End Web Developer who is still learning to become a Full-Stack Web Developer. Someone who likes anime and manga.</h3>
+<h3 align="center">Hi, my name is Muhammad Fathur Rachman. I am a Software Engineer and a Raw Honey Seller based in Bekasi Regency, West Java, Indonesia. Likes anime, manga, and Japanese Culture.</h3>
 
 - 🔭 I’m currently working on [Personal Project]
 
